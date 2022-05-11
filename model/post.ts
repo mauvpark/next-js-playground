@@ -1,0 +1,6 @@
+export default interface postType {
+	userId: number;
+	id: number;
+	title: string;
+	body: string;
+}
