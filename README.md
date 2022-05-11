@@ -10,8 +10,6 @@ This project is next js playground for testing recent version.
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
