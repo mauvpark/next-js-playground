@@ -14,3 +14,5 @@ export default async function fetchData(url: any, delay: number = 0) {
 	]);
 	return res;
 }
+
+module.exports = fetchData;
