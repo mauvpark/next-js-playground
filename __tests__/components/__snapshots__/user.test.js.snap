@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<User /> should render userList mock datas' index 0 1`] = `
+<div>
+  <h2>
+    Bret
+  </h2>
+  <p>
+    hildegard.org
+  </p>
+</div>
+`;

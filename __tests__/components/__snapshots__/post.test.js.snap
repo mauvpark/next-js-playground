@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Post /> should render posts mock datas' index 0 1`] = `
+<div>
+  <h2>
+    sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+     written by: (
+    1
+    )
+  </h2>
+  <p>
+    quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto
+  </p>
+</div>
+`;
