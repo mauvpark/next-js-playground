@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.title {
+  font-family: sans-serif;
+  color: darkblue;
+}
+
+.description {
+  color: black;
+}
