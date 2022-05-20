@@ -2,13 +2,17 @@
 
 exports[`<Post /> should render posts mock datas' index 0 1`] = `
 <div>
-  <h2>
+  <h2
+    className="title"
+  >
     sunt aut facere repellat provident occaecati excepturi optio reprehenderit
      written by: (
     1
     )
   </h2>
-  <p>
+  <p
+    className="description"
+  >
     quia et suscipit
 suscipit recusandae consequuntur expedita et cum
 reprehenderit molestiae ut ut quas totam

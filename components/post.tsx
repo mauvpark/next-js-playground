@@ -4,10 +4,10 @@ import postType from "../model/post";
 const Post = ({ post }: { post: postType }) => {
 	return (
 		<div>
-			<h2>
+			<h2 className="title">
 				{post.title} written by: ({post.userId})
 			</h2>
-			<p>{post.body}</p>
+			<p className="description">{post.body}</p>
 		</div>
 	);
 };
